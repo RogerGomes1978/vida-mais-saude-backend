@@ -9,7 +9,7 @@ Python 3.x
 
 FastAPI
 
-⚙️ Como executar o projeto
+Como executar o projeto
 
 Clonar este repositório:
 git clone https://github.com/RogerGomes1978/vida-mais-saude-backend.git
