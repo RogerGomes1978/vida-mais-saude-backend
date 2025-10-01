@@ -1,7 +1,6 @@
 Vida+ Saúde - Backend (Protótipo)
 
 Este é um protótipo simples desenvolvido em Python com FastAPI, como parte da avaliação do curso de Análise e Desenvolvimento de Sistemas.
-O objetivo é demonstrar conhecimentos básicos em Back-end e organização de projeto.
 
 Tecnologias utilizadas
 
